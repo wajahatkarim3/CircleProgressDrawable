@@ -1,1 +1,1 @@
-include ':app', ':circleprogressdrawable'
+include ':app', ':circleprogressdrawable', ':wajiprogressdrawable'
