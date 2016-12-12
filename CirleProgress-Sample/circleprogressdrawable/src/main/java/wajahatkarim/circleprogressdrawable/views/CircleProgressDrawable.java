@@ -12,7 +12,7 @@ import android.graphics.RectF;
 
 import com.facebook.drawee.drawable.ProgressBarDrawable;
 
-public class CircleProgressBarDrawable extends ProgressBarDrawable {
+public class CircleProgressDrawable extends ProgressBarDrawable {
     private final Paint mPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
     private int mLevel = 0;
     private int maxLevel = 10000;
